@@ -8,7 +8,7 @@
 Name:           ZThread
 Version:        %{lib_api}.%{lib_major}
 Release:        %mkrel 5
-URL:            http://zthread.sourceforge.net/
+URL:            https://zthread.sourceforge.net/
 Summary:        Cross-platform C++ multi-threading framework
 License:        LGPL
 Group:          System/Libraries
