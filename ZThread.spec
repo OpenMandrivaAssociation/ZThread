@@ -15,6 +15,7 @@ Group:          System/Libraries
 Source0:        http://internap.dl.sourceforge.net/sourceforge/zthread/ZThread-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 
+BuildRequires:	make
 %description
 %name is an advanced platform-independent, Object-Oriented threading and
 synchronization library. It has been designed and tested under POSIX & Win32
